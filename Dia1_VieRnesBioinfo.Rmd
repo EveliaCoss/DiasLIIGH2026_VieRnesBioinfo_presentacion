@@ -2,7 +2,7 @@
 title: "VieRnes de Bioinformática en el LIIGH"
 subtitle: "⚔<br/>Sesión informativa"  
 author: "Dra. Evelia Coss"
-date: "6/febrero/2026"
+date: "20/febrero/2026"
 output:
   xaringan::moon_reader:
     css: 
@@ -249,6 +249,9 @@ knitr::include_graphics("figures/allison-horst-code-kitchen.png")
 ```
 ]
 
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
 
 ---
 
@@ -269,6 +272,10 @@ knitr::include_graphics("figures/rmarkdown_wizards.png")
 ```
 ]
 
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
+
 ---
 
 ## Proyectos de la Comunidad
@@ -286,40 +293,21 @@ knitr::include_graphics("figures/debugging.jpg")
 ```
 ]
 
----
-
-## VieRnes de Bioinformática LIIGH-UNAM (Parte 4)
-
-- 5 sep - 9 de dic, 2025
-- Obtuvimos más de 317 soliictudes distribuidos en: **66.6% México, 14.2% Perú, 10.1% Colombia, 5% Ecuador, 1.6% Bolivia, 0.6% Argentina, 0.3%. Uruguay, Chile, Venezuela, Guatemala, España, Estados Unidos, Italia, Brasil, Nicaragua,** y **El Salvador**. 
-
-
-.pull-left[
-- Rango de edad: **18 a 64 años**
-- 10% de los registros corresponden a **profesores investigadores**, 19.9%
-estudiantes de **doctorado**, 19.2% **maestría**, 21.1% **licenciatura**.
-- Alcanzamos a **166 personas** a través de *Youtube y Google meet*.
-
-]
-
-.pull-right[
-
-```{r, echo=FALSE, out.width='100%', fig.align='center'}
-knitr::include_graphics("figures/VieRnesBioinfo_youtube.png")
-```
-
-]
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
 
 ---
 
 class: center, middle
 
 `r fontawesome::fa("code", height = "3em")`
-# Próxima clase: 20 feb - 19 junio, 2026 
+# 20 feb - 19 junio, 2026 
 ## VieRnes de Bioinformática [Parte 5](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5) 
 ### 16 clases
 
 ---
+
 ## STAFF: VieRnes de Bioinformática en el LIIGH
 
 
@@ -357,6 +345,10 @@ cat('
 knitr::include_graphics("figures/webeliveinyou.png")
 ```
 
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
+
 ---
 ## VieRnes de Bioinformática (Parte 5)
 
@@ -372,13 +364,43 @@ Temas:
 - Crear presentaciones con **Rmarkdown**
 - **Estadística** para datos biológicos
 - Visualizaciones graficas con **ggplot2** y **ComplexHeatmap**
+
+[`r fontawesome::fa("github", height = "2em")` VieRnes de bioinformática en el LIIGH, parte 5 ](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5)
 ]
+
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
+
 
 .pull-right[
 ```{r, echo=FALSE, out.width='120%', fig.align='center'}
 knitr::include_graphics("figures/ggplot2_masterpiece.png")
 ```
 ]
+
+---
+
+## Instructores
+
+- Pavel Salazar Fernández - Estudiante de doctorado, Doctorado en Ciencias Biomédicas, LIIGH-UNAM
+- Dr. Santiago Rosas - Posdoctorante, LIIGH-UNAM
+- Dra. Evelia Coss - Posdoctorante, LIIGH-UNAM
+- Dr. Israel Aguilar - Posdoctorante, Tec de Monterrey
+- Emilio Ortiz-Avila - Tesista de licenciatura, UAQ-UNAM.
+- Dra. Laura Gómez - Inmegen
+- Dra. Haydeé Peruyero - Rladies Morelia, Profesora Investigadora, ENES-Juriquilla
+- Sofia Zorrilla - Rladies Morelia, estudiante de maestria PCBIOL en ENES Morelia
+
+.pull-right[
+```{r, echo=FALSE, out.width='120%', fig.align='center'}
+knitr::include_graphics("figures/horst_rstudio_air.png")
+```
+]
+
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
 
 ---
 
@@ -392,8 +414,7 @@ knitr::include_graphics("figures/ggplot2_masterpiece.png")
   + *Incluye*: coffee break y comida
   + *Lugar*: LIIGH-UNAM
 
-- **The Carpentries: Capacitación de instructures**
-  + 2da versión en español
+- **Workshop. The Carpentries: Git, Bash y R/Python**
   + *Fechas*: Noviembre
   + *Modalidad*: Presencial
   + *Lugar*: LIIGH-UNAM
@@ -405,6 +426,10 @@ knitr::include_graphics("figures/ggplot2_masterpiece.png")
 knitr::include_graphics("figures/horst_rstudio_air.png")
 ```
 ]
+
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]
 
 ---
 
@@ -451,6 +476,18 @@ Imagen tomada de: [Comunidades bioinformáticas sin fronteras](https://biotecmov
 
 ---
 
+class: inverse, center, middle
+
+`r fontawesome::fa("laptop-file", height = "3em")`
+# Comunidades bioinformáticas sin fronteras
+### Evelia Lorena Coss-Navarrete, Erika Viridiana Cruz Bonilla y Nelly Sélem Mojica
+#### Biotecnología en movimiento, 2025 
+#### <https://biotecmov.ibt.unam.mx/numeros/40/6.html>
+
+---
+
+
+
 .center[
 .content-box-blue[
 Gracias a cada persona que ha sido parte de este camino. 
@@ -471,7 +508,6 @@ Este espacio es nuestra manera de **aprender, compartir y crecer juntos**.
 - Dra. Daniela Robles 
 - Dr. Federico Sánchez
 - Dra. María C. Ávila Arcos 
-- Dra. Alejandra Medina
 - Eglee Lomelin 
 - Luis Aguilar
 - Jair Santiago García
@@ -513,32 +549,6 @@ Este espacio es nuestra manera de **aprender, compartir y crecer juntos**.
 
 ---
 
-## Recordatorio: Evento Social
-
-.pull-left[
-Viernes 6 de febrero, 15:45h
-
-- **Partido amistoso de Fútbol**
-  + Cancha del campus
-  
-- **Mario Kart Wii**
-  + Área de encuentro académico
-  
-- **Juegos de Mesa**
-  + Aula 3
-  
-- **Búsqueda del Tesoro**
-  + Entrada del LIIGH
-]
-
-.pull-right[
-```{r, echo=FALSE, out.width='120%', fig.align='center'}
-knitr::include_graphics("figures/Rproject.png")
-```
-]
-
----
-
 class: center, middle
 
 `r fontawesome::fa("code", height = "3em")`
@@ -549,3 +559,7 @@ Respira y coméntame tus dudas.
 ```{r, echo=FALSE, out.width='20%', fig.align='right'}
 knitr::include_graphics("figures/cat.png")
 ```
+
+.left[.footnote[.black[
+Imagen tomada de: [Allison Horst](https://allisonhorst.com/) 
+]]]

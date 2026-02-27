@@ -1,2 +1,1 @@
-# LCG2025_S1_Buenaspracticas_presentacion# DiasLIIGH2026_VieRnesBioinfo_presentacion
-# Dia1_VieRnesBioinfo2026_presentacion
+# Charla en los Dias Academicos del LIIGH 2026
